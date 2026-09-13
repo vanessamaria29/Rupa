@@ -130,11 +130,7 @@ img {
 }
 
 .eyebrow::before {
-  content: "";
-  display: inline-block;
-  width: 1.5rem;
-  height: 1px;
-  background-color: var(--c-terracotta);
+  display: none;
 }
 
 .eyebrow-sage {
