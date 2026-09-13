@@ -181,7 +181,7 @@ const PRODUCT_DATA = {
     impactCo2: "0.9 kg CO₂e emisi dihindari*",
     shopeeUrl: "https://shopee.co.id/rupa.official",
     tokopediaUrl: "https://tokopedia.com/rupaofficial",
-    beforeImg: "assets/before-garment.png",
+    beforeImg: "assets/celana.png",
     beforeCaption: "Celana kargo robek dengan kantong samping yang masih sangat kokoh.",
     processImg: "assets/artisan-sewing-umkm.jpg",
     processCaption: "Penambahan lining dalam dan pengait logam berdaya tahan tinggi.",
